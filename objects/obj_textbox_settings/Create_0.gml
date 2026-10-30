@@ -1,0 +1,2 @@
+var base = " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥₱©ª«®°º»¿ÀÁÂÃÄÅÆĄÇĆÈÉÊËĘÌÍÎÏŁÑŃÒÓÔÕÖŒ×ŚÙÚÛÜŹŻßàáâãäåæąçèéêëęìíîïłñńòóôõöœ÷ùúûüźż"
+global.font_text_main = font_add_sprite_ext(spr_main_font_1,base,true,1);

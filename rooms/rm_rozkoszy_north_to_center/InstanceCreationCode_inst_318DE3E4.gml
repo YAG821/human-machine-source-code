@@ -1,0 +1,1 @@
+text_id = "rozkoszy_north_to_center_roselairentrancesign";

@@ -1,0 +1,1 @@
+text_id = "rozkoszy_center_exitsignbeta";

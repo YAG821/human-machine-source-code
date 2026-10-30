@@ -1,0 +1,1 @@
+text_id = "rose_lair_devtest_pcinfo";
