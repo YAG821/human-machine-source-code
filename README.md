@@ -1,5 +1,5 @@
 # human-machine-source-code
-The source code for my abandoned game project :))
+The source code for my abandoned game project :)
 
 Story, characters, design, sound and music, map design, script and event writing: YAG821 and Celestial_Assistance
 
