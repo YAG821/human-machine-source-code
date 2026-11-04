@@ -9,4 +9,6 @@ Coding support: Peyton Burnham (https://www.youtube.com/@peytonburnham4316), the
 
 ASCII Bitmap Font "oldschool" by domsson at OpenGameArt.org (https://opengameart.org/users/domsson), extra characters outside of ASCII range added by YAG821
 
+"Nimbus Sans" by the URW Type Foundry, GmbH (https://www.urwtype.com/)
+
 This game was developed using GameMaker Studio 2, which is a registered trademark of YoYo Games.
